@@ -1,0 +1,27 @@
+references:
+  - "https://en.wikipedia.org/wiki/Scion_xB"
+
+generations:
+  - name: "First Generation (XP30)"
+    start_year: 2004
+    end_year: 2006
+    description: "The first-generation Scion xB was a lightly modified and rebadged version of the Japanese-market subcompact Toyota bB. It was based on the Toyota Echo/Yaris platform and featured a 1.5L 1NZ-FE I4 engine producing 108 hp. Available with both 5-speed manual and 4-speed automatic transmissions, it was one of two launch models for the Scion marque alongside the xA."
+    platform: "Toyota Echo/Yaris platform (XP30)"
+    engine: "1.5 L 1NZ-FE I4"
+    transmission: "5-speed manual, 4-speed automatic"
+
+  - name: "Second Generation Pre-Facelift (E150)"
+    start_year: 2008
+    end_year: 2011
+    description: "The second-generation Scion xB was retooled as a compact car based on the E150 series Corolla platform (Toyota New MC platform). It featured a larger, rounder design with a 2.4L 2AZ-FE I4 engine rated at 158 hp. This model was also sold internationally as the Toyota Corolla Rumion in Japan and Toyota Rukus in Australia."
+    platform: "Toyota New MC platform (E150)"
+    engine: "2.4 L 2AZ-FE I4"
+    transmission: "5-speed manual, 4-speed automatic"
+
+  - name: "Second Generation Facelift (E150)"
+    start_year: 2012
+    end_year: 2015
+    description: "The facelifted second-generation xB received revised front and rear bumpers, new front grille, headlights, and tail lights for the 2012 model year. Additional updates included a revised gauge cluster, center console, and new driver and front passenger seats. For 2013, there were further interior upgrades including the optional BeSpoke radio and remodeled bumpers. The 2015 model added a standard backup camera as the final model year before the xB was replaced by the Scion iM."
+    platform: "Toyota New MC platform (E150)"
+    engine: "2.4 L 2AZ-FE I4"
+    transmission: "5-speed manual, 4-speed automatic"
