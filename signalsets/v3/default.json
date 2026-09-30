@@ -471,11 +471,11 @@
   ]},
 { "hdr": "750", "rax": "758", "eax": "2A", "tst": "2A", "tmo": "96", "fcm1": true, "dbg": true, "cmd": {"22": "1005"}, "freq": 5,
   "signals": [
-    {"id": "XB_TP_FL",    "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Tire sensor 1 pressure"},
-    {"id": "XB_TP_FR",    "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Tire sensor 2 pressure"},
-    {"id": "XB_TP_RL",    "path": "Tires", "fmt": {"bix": 40, "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Tire sensor 3 pressure"},
-    {"id": "XB_TP_RR",    "path": "Tires", "fmt": {"bix": 56, "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Tire sensor 4 pressure"},
-    {"id": "XB_TP_SPARE", "path": "Tires", "fmt": {"bix": 72, "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Spare tire pressure"}
+    {"id": "XB_TP_FL",    "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "nullmax": 3.8965, "unit": "bars" }, "name": "Tire sensor 1 pressure"},
+    {"id": "XB_TP_FR",    "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "nullmax": 3.8965, "unit": "bars" }, "name": "Tire sensor 2 pressure"},
+    {"id": "XB_TP_RL",    "path": "Tires", "fmt": {"bix": 40, "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "nullmax": 3.8965, "unit": "bars" }, "name": "Tire sensor 3 pressure"},
+    {"id": "XB_TP_RR",    "path": "Tires", "fmt": {"bix": 56, "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "nullmax": 3.8965, "unit": "bars" }, "name": "Tire sensor 4 pressure"},
+    {"id": "XB_TP_SPARE", "path": "Tires", "fmt": {"bix": 72, "len": 8, "max": 3.8965, "div": 58, "add": -0.5, "nullmax": 3.8965, "unit": "bars" }, "name": "Spare tire pressure"}
   ]},
 { "hdr": "750", "rax": "758", "eax": "2A", "tst": "2A", "fcm1": true, "dbg": true, "cmd": {"22": "2021"}, "freq": 86400,
   "signals": [
